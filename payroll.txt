@@ -1,0 +1,9 @@
+George  Brown $ 441.0
+John  Doe $ 712.5
+Juan  Gomez $ 677.25
+Henry  Hernandez $ 397.5
+Mary  Jones $ 540.0
+Carlotte  Lopez $ 630.0
+Jonathan  Maines $ 600.0
+James  Ortiz $ 480.0
+The payroll for the week is $ 4478.25
